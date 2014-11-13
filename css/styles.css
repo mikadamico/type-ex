@@ -1,7 +1,29 @@
 /* Your Website Styles */
 
+h1 {
+	font-family: 'Satisfy', cursive;
+	font-size: 80px;
+}
 
-/* Show Grid */
-.showgrid {
-	background: url("../img/grid-bg.png") repeat-y;
+h3 {
+	font-family: 'Satisfy', cursive;
+	font-size: 35px;
+}
+
+body {
+	font-family: 'News Cycle', sans-serif;	
+	font-size: 20px;
+}
+
+
+body {
+	background: url("../img/large_leather.png") repeat;
+}
+
+img {
+	height: 450px;
+}
+
+.body {
+	margin-top: -40px;
 }
